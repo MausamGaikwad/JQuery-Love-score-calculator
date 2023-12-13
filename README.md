@@ -18,7 +18,7 @@ This project is a Love Score Calculator implemented as a web application. It all
 
 ## Demo
 
-You can see a live demo of the Love Score Calculator [here](#http://127.0.0.1:5500/Love%20Score%20Calculator/Love%20Score%20Calculator.html).
+You can see a live demo of the Love Score Calculator [here](http://127.0.0.1:5500/Love%20Score%20Calculator/Love%20Score%20Calculator.html).
 
 ## Features
 
